@@ -24,7 +24,7 @@
  </a>
 </p>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">Tech:</h3>
 <p>
  <img src="https://cdn-icons-png.flaticon.com/128/760/760457.png" width=40 height=40/>
  
