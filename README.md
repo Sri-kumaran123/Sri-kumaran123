@@ -65,9 +65,9 @@
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" /></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/srikumaran-s-450866245/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/Sri-kumaran123"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+<!--   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" /></a> -->
 </p>
 
 ---
