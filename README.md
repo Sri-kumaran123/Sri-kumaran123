@@ -1,36 +1,75 @@
-<p align="left">
- 
+<h1 align="center">Hi 👋, I'm [Your Name]!</h1>
+<h3 align="center">🚀 Software Developer | Full-Stack Engineer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
 </p>
 
-  <h1 align="center">Hi 👋, I'm Srikumaran Sivarajan</h1>
-<h3 align="center">:globe_with_meridians: Web Developer :spider_web: </h3>
+---
 
+## 📌 About Me
+💡 I specialize in building **scalable web applications**, designing **robust APIs**, and crafting **data-driven solutions**.  
+🎯 Passionate about **clean code**, **software design patterns**, and **optimization**.  
+📊 Experienced in **Power BI** for **data visualization and analytics**.
 
+---
 
+## 🛠 Skills & Tech Stack
 
+### 🔹 Frontend
+- **React.js**, Hooks, State Management, UI Libraries (Material UI, Tailwind CSS)
 
+### 🔹 Backend
+- **Node.js & Express.js** – REST APIs, Authentication, Middleware
+- **Flask & Python** – Microservices, Data Processing, Web Scraping
 
-<h3 align="left">Languages:</h3>
-<p>
- <a rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" width=40 height=40/></a><a><img src="https://cdn-icons-png.flaticon.com/128/5968/5968267.png" width=50 height=50/></a>
- <a>
-  <img src="https://cdn-icons-png.flaticon.com/128/11516/11516361.png" width=40 height=40/>
- </a>
- <a>
-  <img src="https://cdn-icons-png.flaticon.com/128/15484/15484303.png" width=40 height=40/>
- </a>
- <a>
-  <img src="https://th.bing.com/th/id/R.e5eee315a17de0d7f56117077eb71fa9?rik=NgCWjSIgLkESIw&riu=http%3a%2f%2fpluspng.com%2fimg-png%2flogo-mongodb-png-mongodb-logo-anything-but-the-simplest-of-web-applications-requires-a-database-to-store-and-serve-content-from-choosing-the-right-database-and-structuring-413.png&ehk=90WPwdyOa7m2LJRakR87IB7iLkWmZrS3Wth5RB8F2tU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1" width=40 height=40/>
- </a>
+### 🔹 Databases
+- **MySQL** – Query Optimization, Relational Database Design
+- **MongoDB** – NoSQL, Aggregation Pipelines, Indexing
+
+### 🔹 Software Engineering
+- **Java (OOP & Design Patterns)** – SOLID Principles, Factory & Singleton Patterns
+- **Software Design Patterns** – MVC, Observer, Factory, Singleton
+
+### 🔹 Data & Analytics
+- **Power BI** – Business Intelligence, Data Visualization
+
+---
+
+## 🚀 Projects
+
+| 🔹 Project | 🚀 Tech Stack | 🔗 Link |
+|------------|-------------|---------|
+| **Project 1** | React, Flask, MongoDB | [🔗 GitHub](https://github.com/yourusername/project1) |
+| **Project 2** | Node.js, Express, MySQL | [🔗 GitHub](https://github.com/yourusername/project2) |
+| **Project 3** | Power BI, Python | [🔗 GitHub](https://github.com/yourusername/project3) |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
 </p>
 
-<h3 align="left">Tech:</h3>
-<p>
- <img src="https://cdn-icons-png.flaticon.com/128/760/760457.png" width=40 height=40/>
- 
-</p>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  </p>
- 
+---
 
- 
-<p></p>
+## 🌍 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge" /></a>
+</p>
+
+---
+
+⭐️ **Let's collaborate and build something amazing!** 🚀
