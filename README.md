@@ -48,7 +48,7 @@
 | 🔹 Project | 🚀 Tech Stack | 🔗 Link |
 |------------|-------------|---------|
 | **Project 1** | React, Flask, MySQL | [🔗 GitHub]([https://github.com/yourusername/project1](https://github.com/Sri-kumaran123/Social_media)) |
-| **Project 2** |Reactjs, Node.js, Express, MySQL | [🔗 GitHub](https://github.com/Sri-kumaran123/My_UG_Project_Server), [🔗 GitHub](https://github.com/Sri-kumaran123/My_UG_Project_Client)|
+| **Project 2** |Reactjs, Node.js, Express, MySQL | [🔗 Client](https://github.com/Sri-kumaran123/My_UG_Project_Server), [🔗 Server](https://github.com/Sri-kumaran123/My_UG_Project_Client)|
 ---
 
 ## 📈 GitHub Stats
